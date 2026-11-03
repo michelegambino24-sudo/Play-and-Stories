@@ -20,7 +20,7 @@ Project: **Play & Stories**, a static concept-demo website. Read `SPEC.md` first
 Use these before and while designing or changing visuals, layout, type or motion: **hallmark, impeccable, emil-design-eng, review-animations, better-typography, transitions-dev**.
 
 - At the start of the plan, say which of these skills are available in this folder.
-- If one is not installed, **say so and stop**; do not skip it silently and do not install it yourself.
+- Impeccable is installed globally, so it counts as available even if it is not in .agents/skills. The other five must be in .agents/skills. If one of those five is missing, say so and stop; do not skip it silently and do not install it yourself.
 - Run review-animations on every animation or transition you add. Run better-typography on every text block.
 
 ## Hard constraints
